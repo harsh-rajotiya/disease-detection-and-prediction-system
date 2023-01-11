@@ -15,4 +15,4 @@ Here's some of the screenshots of the project:
 <img src='https://github.com/harsh-rajotiya/disease-detection-and-prediction-system/blob/main/1.png' width="800" height="450"/>
 <img src='https://github.com/harsh-rajotiya/disease-detection-and-prediction-system/blob/main/2.png' width="800" height="450"/>
 <img src='https://github.com/harsh-rajotiya/disease-detection-and-prediction-system/blob/main/3.png' width="800" height="450"/>
-<img src='' width="800" height="450"/>
+<img src='https://github.com/harsh-rajotiya/disease-detection-and-prediction-system/blob/main/4.png' width="800" height="450"/>
