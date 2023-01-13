@@ -1,4 +1,4 @@
-# Disease Detection and Prediction System
+# Disease Detection and Prediction System using machine learning
 The purpose of constructing this project called “Disease Detection and Prediction System” is to predict the disease of the patient using all their general information like BMI, blood glucose level, insulin level, etc. It's an example of how technology and medical expertise are flawlessly woven together with the goal of achieving "*Prediction is better than cure*".
 
 
